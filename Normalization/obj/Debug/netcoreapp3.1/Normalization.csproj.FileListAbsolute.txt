@@ -1,0 +1,13 @@
+C:\Users\marko\source\repos\Normalization\Normalization\bin\Debug\netcoreapp3.1\Normalization.exe
+C:\Users\marko\source\repos\Normalization\Normalization\bin\Debug\netcoreapp3.1\Normalization.deps.json
+C:\Users\marko\source\repos\Normalization\Normalization\bin\Debug\netcoreapp3.1\Normalization.runtimeconfig.json
+C:\Users\marko\source\repos\Normalization\Normalization\bin\Debug\netcoreapp3.1\Normalization.runtimeconfig.dev.json
+C:\Users\marko\source\repos\Normalization\Normalization\bin\Debug\netcoreapp3.1\Normalization.dll
+C:\Users\marko\source\repos\Normalization\Normalization\bin\Debug\netcoreapp3.1\Normalization.pdb
+C:\Users\marko\source\repos\Normalization\Normalization\obj\Debug\netcoreapp3.1\Normalization.csprojAssemblyReference.cache
+C:\Users\marko\source\repos\Normalization\Normalization\obj\Debug\netcoreapp3.1\Normalization.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\Normalization\Normalization\obj\Debug\netcoreapp3.1\Normalization.AssemblyInfo.cs
+C:\Users\marko\source\repos\Normalization\Normalization\obj\Debug\netcoreapp3.1\Normalization.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\Normalization\Normalization\obj\Debug\netcoreapp3.1\Normalization.dll
+C:\Users\marko\source\repos\Normalization\Normalization\obj\Debug\netcoreapp3.1\Normalization.pdb
+C:\Users\marko\source\repos\Normalization\Normalization\obj\Debug\netcoreapp3.1\Normalization.genruntimeconfig.cache
